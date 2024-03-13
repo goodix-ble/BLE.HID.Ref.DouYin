@@ -22,6 +22,7 @@
 
 
 ## 3. 关键技术
+
 - HID map：该项目中HID Map  rep_map_data 包含鼠标，手指，音量键三种功能的描述。
 - Android和iOS对HID的适配不一致。该项目中Android的滑动和点击使用手指模拟，iOS的滑动和点击使用鼠标模拟，因此需要在BLE连接上后发现一次Ancs服务，如果服务存在则是iOS系统，否则是Android系统。
 
@@ -29,7 +30,7 @@
 
 
 
-### 4. 玩法
+## 4. 玩法
 
 - 编译ble_app_hids_douyin工程，并下载代码到GR533x SK板中
 - 打开手机系统蓝牙，可发现Goodix_DY设备。连接配对
@@ -37,12 +38,8 @@
 
 
 
-### 5. 其他
+## 5. 视频演示
 
-### 5.1 视频演示
-
-- 可以通过如下链接, 在线观看程序的视频演示效果
+-  点击在线观看程序的视频演示效果  : [通过GR533x SK刷抖音](player.bilibili.com/player.html?aid=963219849&bvid=BV1aH4y1B7Bb&cid=1325208178&p=1)
 
 
-
-<iframe src="//player.bilibili.com/player.html?aid=963219849&bvid=BV1aH4y1B7Bb&cid=1325208178&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
