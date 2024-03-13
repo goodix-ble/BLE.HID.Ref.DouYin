@@ -40,6 +40,6 @@
 
 ## 5. 视频演示
 
--  点击在线观看程序的视频演示效果  : [通过GR533x SK刷抖音](player.bilibili.com/player.html?aid=963219849&bvid=BV1aH4y1B7Bb&cid=1325208178&p=1)
+-  点击在线观看程序的视频演示效果  : [通过GR533x SK刷抖音](https://www.bilibili.com/video/BV1BZ42187ij/)
 
 
